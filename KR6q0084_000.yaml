@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0084/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 少室六門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2009.xml
+    old_id: T48n2009
+hash: sha256:4b037c1d3ed12dd3fb0110a63992e139025145af0c58b280142b83c453ad0575

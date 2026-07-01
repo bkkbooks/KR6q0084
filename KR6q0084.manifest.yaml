@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR6q0084/v1
+canonical_location: https://kanripo.org/bkk/KR6q0084/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 少室六門
+  identifiers:
+    alt_id:
+    - T48n2009
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2009.xml
+    old_id: T48n2009
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0084_000.yaml, hash: 'sha256:4b037c1d3ed12dd3fb0110a63992e139025145af0c58b280142b83c453ad0575'}
+  - {seq: 1, filename: KR6q0084_001.yaml, hash: 'sha256:e6c7865e22c83096b9ae8ae116ffae97c9508a4146ae098ad1de70101661147e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0084_001.markers.yaml, hash: 'sha256:82925c9d5d825a8235cdf767be4fe2be1882877169a02262e6f2e7cf5cbc0bd9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 15146
+  label: 小室六門
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 1 心經頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-2
+    span:
+    - body
+    - 1768
+    - 1768
+  label: 2 破相論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-3
+    span:
+    - body
+    - 6005
+    - 6005
+  label: 3 二種入
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-4
+    span:
+    - body
+    - 6596
+    - 6596
+  label: 4 安心法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-5
+    span:
+    - body
+    - 7205
+    - 7205
+  label: 5 悟性論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-6
+    span:
+    - body
+    - 10843
+    - 10843
+  label: 真性頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-7
+    span:
+    - body
+    - 10850
+    - 10850
+  label: 6 血脈論
+  type: mulu
+  level: 1
+hash: sha256:a5cbfdb7f250c681ee754e34d3a9e8118b3afed6f0519bb823c8a61e4124a95e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

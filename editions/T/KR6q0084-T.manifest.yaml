@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6q0084/T/v1
+canonical_location: https://kanripo.org/bkk/KR6q0084/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 少室六門
+  identifiers:
+    krp: KR6q0084
+    cbeta: T48n2009
+    cbeta_old_id: T48n2009
+    authorityid: CA0002920
+    json_key: T2009
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2009.xml
+    old_id: T48n2009
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0084_000-T.yaml, hash: 'sha256:4b037c1d3ed12dd3fb0110a63992e139025145af0c58b280142b83c453ad0575'}
+  - {seq: 1, filename: KR6q0084_001-T.yaml, hash: 'sha256:6a3739bb63ec9796ee5bbdf9e02682737d34a3bdd0ccddf13f0377c7a6f9c5b9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0084_000-T.markers.yaml, hash: 'sha256:7b03c0561cce3d01f6aa01f69657af621464ffa50d9ce61307c6953920a96471'}
+  - {seq: 1, role: markers, filename: assets/KR6q0084_001-T.markers.yaml, hash: 'sha256:c2807b46148369da2faa6df807fce000c88645ed4488b169abb356170fb70bf5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 15146
+  label: 小室六門
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 1 心經頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-2
+    span:
+    - body
+    - 1768
+    - 1768
+  label: 2 破相論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-3
+    span:
+    - body
+    - 6005
+    - 6005
+  label: 3 二種入
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-4
+    span:
+    - body
+    - 6596
+    - 6596
+  label: 4 安心法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-5
+    span:
+    - body
+    - 7205
+    - 7205
+  label: 5 悟性論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-6
+    span:
+    - body
+    - 10843
+    - 10843
+  label: 真性頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0084_T_001-mulu-7
+    span:
+    - body
+    - 10850
+    - 10850
+  label: 6 血脈論
+  type: mulu
+  level: 1
+hash: sha256:b9f3590a225172f2d3bee96800bcef6363433558493a0a0c85d631351a3c91d1
