@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0084_000.yaml, hash: 'sha256:4b037c1d3ed12dd3fb0110a63992e139025145af0c58b280142b83c453ad0575'}
-  - {seq: 1, filename: KR6q0084_001.yaml, hash: 'sha256:e6c7865e22c83096b9ae8ae116ffae97c9508a4146ae098ad1de70101661147e'}
+  - {seq: 1, filename: KR6q0084_001.yaml, hash: 'sha256:6a3739bb63ec9796ee5bbdf9e02682737d34a3bdd0ccddf13f0377c7a6f9c5b9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0084_001.markers.yaml, hash: 'sha256:82925c9d5d825a8235cdf767be4fe2be1882877169a02262e6f2e7cf5cbc0bd9'}
+  - {seq: 0, role: markers, filename: assets/KR6q0084_000.markers.yaml, hash: 'sha256:8234949a1cae22da12c47c7bc1011dc8f0618bcd09a5ce3da7f7e60cf84a1710'}
+  - {seq: 1, role: markers, filename: assets/KR6q0084_001.markers.yaml, hash: 'sha256:be7da4ece6f2e19e5ea3892e12e81ec6e1af7a7490ff29c2481902fe30af20bf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -106,7 +107,4 @@ table_of_contents:
   label: 6 血脈論
   type: mulu
   level: 1
-hash: sha256:a5cbfdb7f250c681ee754e34d3a9e8118b3afed6f0519bb823c8a61e4124a95e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3f2abdbff89c568c7896d1a8ee5e6c57bf8fbf88862c4022a88a009f9d02dcf9
