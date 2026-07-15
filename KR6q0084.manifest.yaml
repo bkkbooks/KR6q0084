@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0084/v1
 canonical_location: https://kanripo.org/bkk/KR6q0084/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 少室六門
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0084_000.yaml, hash: 'sha256:4b037c1d3ed12dd3fb0110a63992e139025145af0c58b280142b83c453ad0575'}
-  - {seq: 1, filename: KR6q0084_001.yaml, hash: 'sha256:6a3739bb63ec9796ee5bbdf9e02682737d34a3bdd0ccddf13f0377c7a6f9c5b9'}
+  - {seq: 1, filename: KR6q0084_001.yaml, hash: 'sha256:bc9d0f0014e4d6b5dbc194027092c40fff29be3100620b8b40511a30dfef8918'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0084_000.markers.yaml, hash: 'sha256:8234949a1cae22da12c47c7bc1011dc8f0618bcd09a5ce3da7f7e60cf84a1710'}
-  - {seq: 1, role: markers, filename: assets/KR6q0084_001.markers.yaml, hash: 'sha256:be7da4ece6f2e19e5ea3892e12e81ec6e1af7a7490ff29c2481902fe30af20bf'}
+  - {seq: 1, role: markers, filename: assets/KR6q0084_001.markers.yaml, hash: 'sha256:128ea67e327112fa6d352c57d6ce3dd05b2da7acf04c7f1d018c11a1a1f7d274'}
 table_of_contents:
 - ref:
     seq: 1
@@ -107,4 +107,7 @@ table_of_contents:
   label: 6 血脈論
   type: mulu
   level: 1
-hash: sha256:3f2abdbff89c568c7896d1a8ee5e6c57bf8fbf88862c4022a88a009f9d02dcf9
+hash: sha256:688ec583b7dfb288b7d5ee3e00397248b5a4f9bdf359244af3e990dd27228e27
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
